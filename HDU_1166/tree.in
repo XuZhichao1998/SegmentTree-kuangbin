@@ -1,0 +1,14 @@
+5  11
+1 2 3 4 5
+query 1 5
+query 2 4
+query 1 3
+modify 2 100
+query 2 2
+query 1 5
+query 3 4
+modify 4 -100
+query 5 5
+query 1 5
+query 2 5
+
